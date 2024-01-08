@@ -1,0 +1,27 @@
+[
+  {
+    "itemCode": 1,
+    "itemName": "Кофе",
+    "itemPrice": 150
+  },
+  {
+    "itemCode": 2,
+    "itemName": "Спагетти",
+    "itemPrice": 100
+  },
+  {
+    "itemCode": 3,
+    "itemName": "Бедро индейки",
+    "itemPrice": 299
+  },
+  {
+    "itemCode": 4,
+    "itemName": "Песто",
+    "itemPrice": 400
+  },
+  {
+    "itemCode": 5,
+    "itemName": "Икра черная",
+    "itemPrice": 1500
+  }
+]
